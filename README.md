@@ -4,5 +4,6 @@ Azure Queue Storage:
 ![](https://github.com/Santoshmali/AzureSamples/blob/master/AzureSamples/Azure_Queue_Storage.png)
 
 
-Azure Event Hub
+Azure Event Hub:
 
+![](https://github.com/Santoshmali/AzureSamples/blob/master/AzureSamples/Azure_Event_Hub.png)
