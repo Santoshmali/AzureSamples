@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StorageQueue": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "STORAGE_CONNECTION_STRING": "HHAVE YOUR OWN CONNECTION STRING"
+      }
+    }
+  }
+}
