@@ -5,11 +5,12 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA3C2017-6361-47F6-8770-1932C8E62080}"
 	ProjectSection(SolutionItems) = preProject
+		Azure_Event_Grid.png = Azure_Event_Grid.png
 		Azure_Event_Hub.png = Azure_Event_Hub.png
 		Azure_Queue_Storage.png = Azure_Queue_Storage.png
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageQueue", "StorageQueue\StorageQueue.csproj", "{07334851-4416-4A10-AF8F-CA7B6144A30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageQueue", "StorageQueue\StorageQueue.csproj", "{07334851-4416-4A10-AF8F-CA7B6144A30E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
